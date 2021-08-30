@@ -1,0 +1,20 @@
+{
+    "name": "mufti199/laraval_app",
+    "description": "My first laraval app",
+    "type": "project",
+    "require": {
+        "monolog/monolog": "^2.3",
+        "guzzlehttp/guzzle": "^7.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "Mufti199\\LaravalApp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gazi Mufti Mahmood",
+            "email": "mufti619@gmail.com"
+        }
+    ]
+}
